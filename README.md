@@ -22,6 +22,13 @@
 <img align="left" alt="Matte's Instagram" width="40px" src="https://user-images.githubusercontent.com/81308076/155847773-7bf02661-c035-4d88-a845-53af15a959b9.png" />
 </a>  
 
+<br />
+<br />
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCarlone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
