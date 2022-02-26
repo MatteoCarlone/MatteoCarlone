@@ -10,25 +10,17 @@
 
 ### Connect with me:
 
-<p align="left">
-
-  <img src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png#gh-light-mode-only" width="40" >
-
-  <img src="https://user-images.githubusercontent.com/81308076/155858542-33351089-bd84-4907-8705-3d4fbce1c0b9.png#gh-dark-mode-only" width="40" >
-  
-</p>
-
-
 
 <a href="https://www.linkedin.com/in/matteo-carlone-778919186/" >
+  <img align="left" alt="Matte's mail" width="40px" src="https://user-images.githubusercontent.com/81308076/155858734-8c5b7dfb-a6c8-4398-a618-82b40714c772.png" />
+</a>  
 
- 
 <a href="mailto:matteo.carlone99@gmail.com" >
-<img align="left" alt="Matte's mail" width="40px" src="https://user-images.githubusercontent.com/81308076/155847445-a0e0d504-52a6-4c0e-b839-76820e8806e4.png" />
+<img align="left" alt="Matte's mail" width="40px" src="https://user-images.githubusercontent.com/81308076/155858753-ef1238f1-5887-4e4d-9ac2-2b0bb82836e2.png" />
 </a>  
 
 <a href="https://www.instagram.com/_MatteoCarlone_/" >
-<img align="left" alt="Matte's Instagram" width="40px" src="https://user-images.githubusercontent.com/81308076/155847773-7bf02661-c035-4d88-a845-53af15a959b9.png" />
+<img align="left" alt="Matte's Instagram" width="40px" src="https://user-images.githubusercontent.com/81308076/155858773-5efb3fe2-cdac-4722-99ff-8348e75a6a27.png" />
 </a>  
 
 <br />
