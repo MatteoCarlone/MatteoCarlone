@@ -14,7 +14,7 @@
 <img align="left" alt="Matte's linkedin" width="40px" src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png" />
 </a>  
 
-<a href="matteo.carlone99@gmail.com" >
+<a href="mailto:matteo.carlone99@gmail.com" >
 <img align="left" alt="Matte's mail" width="40px" src="https://user-images.githubusercontent.com/81308076/155847445-a0e0d504-52a6-4c0e-b839-76820e8806e4.png" />
 </a>  
 
@@ -26,8 +26,11 @@
 <br />
 
 ---
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCarlone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+    
+</div>
 
 
 
