@@ -10,10 +10,14 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/matteo-carlone-778919186/" >
-<img align="left" alt="Matte's linkedin" width="40px" src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png" />
-</a>  
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/matteo-carlone-778919186/" >
+    <img src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png#gh-light-mode-only" width="40" >
+  </a> 
+    <img src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png#gh-dark-mode-only" width="40" >
+  
+</p>
+ 
 <a href="mailto:matteo.carlone99@gmail.com" >
 <img align="left" alt="Matte's mail" width="40px" src="https://user-images.githubusercontent.com/81308076/155847445-a0e0d504-52a6-4c0e-b839-76820e8806e4.png" />
 </a>  
