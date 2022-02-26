@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Matteo 👋
 
-<!--
-**MatteoCarlone/MatteoCarlone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Robotics engineering student, interested in the field of automation and controllership for autonomous machines.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying Robotics in the University of Genoa, Italy
+- 🌱 I’m currently learning everything about Robotics and Automation...😂
+- 👯 I’m looking to collaborate with other Students and Developers!
+- 🥅 Goals: Learn more, Apply for study abroad experiences and internships.
+- ⚡ Fun fact: I love playing soccer, Traveling and eating delicious food 😍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+
