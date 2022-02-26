@@ -11,10 +11,10 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/matteo-carlone-778919186/" >
-    <img src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png#gh-light-mode-only" width="40" >
-  </a> 
-    <img src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png#gh-dark-mode-only" width="40" >
+
+  <img src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png#gh-light-mode-only" width="40" >
+
+  <img src="https://user-images.githubusercontent.com/81308076/155847364-23b14cb3-157e-469c-ae4e-72fcbebcecbd.png#gh-dark-mode-only" width="40" >
   
 </p>
  
