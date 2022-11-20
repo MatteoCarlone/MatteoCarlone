@@ -27,11 +27,18 @@
 <br />
 
 ---
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCarlone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
-</div>
+<summary><b>🔥&nbsp;&nbsp;My Stats</b></summary> <br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=MatteoCarlone) [![Github](https://img.shields.io/github/followers/MatteoCarlone?label=Follow&style=social)](https://github.com/Matteocarlone)
+
+<p align="center"
+<a href="https://github.com/mmatteo-hub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatteoCarlone&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCarlone&theme=noctis_minimus&layout=compact" />
+</a>
+</p>
+
+
 
 
 
